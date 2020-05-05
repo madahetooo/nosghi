@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nosghi</string>
+    <string name="logo">logo</string>
+    <string name="getStarted">دخول</string>
+    <string name="skip">تخطي</string>
+    <string name="next">التالى</string>
+    <string name="getstarted">البدء</string>
+    <string name="getstartedd">فلنبدأ</string>
+    <string name="name">الأسم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="register">تسجيل الدخول</string>
+    <string name="remeber_me">أبقي مسجل</string>
+    <string name="not_having_acc">ليس لديك حساب ؟ تسجيل</string>
+    <string name="password2">***************</string>
+    <string name="login">تسجيل</string>
+    <string name="newAccount">حساب جديد</string>
+    <string name="register2">تسجيل</string>
+    <string name="nothavingacc">ليس لديك حساب ؟ تسجيل</string>
+</resources>
